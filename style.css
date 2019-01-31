@@ -1,0 +1,14 @@
+.content
+{
+	padding-top: 400px;
+	 height: 750px;
+   width: 100%;
+	background-image: url('../FrontEndBasic/art-backdrop-bright-53265.jpg');
+	background-size: 2000px;
+	text-align: center;
+}
+.title		
+{
+text-align: left;
+font-size: 40px;
+}
